@@ -161,7 +161,7 @@ We require a Database to store the Alpha Office data which is accessed later in 
 
 In this step you will create a VBCS instance that will be used in Lab 400. It takes about 20 minutes for the underlying infrastructure to be created. We just need to fire off the create instance process at this point. We'll check the status of the instance at the beginning of Lab 400.
 
-- From the OCI console go back to your Services Dashboard by clicking on the hamburger menu in the upper left hand side of the page and selecting **Administration-->My Services Dashboard**
+- From your `Original login page` goto the My Services dashboard by clicking on the hamburger menu in the upper left hand side of the page and selecting **Administration-->My Services Dashboard**
 
   ![](images/050/LabGuide50-vbcs1a.png)
 
@@ -199,7 +199,7 @@ In this step you will create a VBCS instance that will be used in Lab 400. It ta
   monoTOmicro
   ```
 
-- Enter a `Description` and for the `Region` select **No Preference**. Click **Next**.
+- Enter a `Description` and for the `Region` select the same region you chose for the ATP database. **In this example us-phoenix-1**. Click **Next**.
 
   ![](images/050/LabGuide50-vbcs3.png)
 
